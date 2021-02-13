@@ -1,6 +1,7 @@
 # Recriando a página inicial do Instagram 😃
 
 Esse é o repositório da aula de Flexbox, na qual fiz a interface de login do Instagram! 
+![screenshot](https://github.com/JM-2/Instagram-DIO/blob/master/img/exemplo.png?raw=true "screenshot")
 
 Atividade realizada para o Bootcamp **Decola Dev Avanade 2021** da **Digital Innovation One**.
 
